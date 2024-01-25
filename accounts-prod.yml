@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "Nikhil cegg - Product Owner"
-    email: "nik@eazybank.com"
+    email: "{cipher}fe209b955a1b1467ca4562f175e2ca6d3cabc325a6a05faef45ce3a0f14d604acb1513c47bd51cff6a1a3465336d86d4"
   onCallSupport:
     - (999)763-8080
     - (777)763-5555
