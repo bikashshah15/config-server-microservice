@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs"
+  contactDetails:
+    name: "Biswash Sapkota - QA Lead"
+    email: "bis@eazybank.com"
+  onCallSupport:
+    - (999)763-4568
+    - (777)763-4854

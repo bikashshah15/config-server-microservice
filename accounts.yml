@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local APIs"
+  contactDetails:
+    name: "Bikash Shah - Developer"
+    email: "bik@eazybank.com"
+  onCallSupport:
+    - (980)763-4568
+    - (980)763-4854

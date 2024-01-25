@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs"
+  contactDetails:
+    name: "John Devro - QA lead"
+    email: "John@gmail.com"
+  onCallSupport:
+    - (755) 273-6582
+    - (656) 679-5892
