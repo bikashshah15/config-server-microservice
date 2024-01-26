@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related webhook prod APIs"
+  message: "Welcome to Bank accounts related webhooks prod APIs"
   contactDetails:
     name: "Nikhil cegg - Product Owner"
     email: "{cipher}fe209b955a1b1467ca4562f175e2ca6d3cabc325a6a05faef45ce3a0f14d604acb1513c47bd51cff6a1a3465336d86d4"
